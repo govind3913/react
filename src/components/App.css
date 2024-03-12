@@ -1,0 +1,17 @@
+.card .card-img-top {
+  height: 140px;
+  width: 140px;
+}
+.card{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.tabs-section{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  min-height: 450px;
+}
+.tab-content{
+  padding: 0 12px;
+}
+.nav-link.active{
+  border-bottom: 3px solid rgb(6, 92, 6);
+}
