@@ -12,8 +12,8 @@ function App() {
         <div className="card rounded-0 border-0">
     <i className="bi bi-person rounded-circle card-img-top mt-3 mx-auto img-thumbnail"></i>
     <div className="card-body">
-      <h6 className="card-title text-center">GOVINDA PANTANGI</h6>
-      <p className="card-text text-center">D636384</p>
+      <h6 className="card-title text-center">Products</h6>
+      <p className="card-text text-center">productId</p>
     </div>
     <ul className="list-group list-group-flush mt-5">
     <li className="list-group-item"><i></i><span>Superuser</span></li>
